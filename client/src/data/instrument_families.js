@@ -1,3 +1,5 @@
+export {indtrumentFalmilies as data};
+
 const instrumentFamilies = [
   {
     name: 'Brass',
@@ -25,5 +27,3 @@ const instrumentFamilies = [
     instruments: ['piano', 'organ', 'electronic keyboard', 'synthesizer']
   }
 ];
-
-module.exports = instrumentFamilies;
